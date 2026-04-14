@@ -11,7 +11,7 @@ Google Cybersecurity Certificate program.
 ## Projects
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [Python File Update Algorithm](./python-algorithms/) | Automated IP allow list management using Python file I/O | Python, File handling, Access control |
+Python File Update Algorithm | Automated IP allow list management using Python file I/O | Python, File handling, Access control |
 
 ## Skills
 - Python scripting
